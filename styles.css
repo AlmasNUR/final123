@@ -1,0 +1,82 @@
+#navbar{
+  background-color:#B2762D;
+}
+.title {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 7rem;
+  line-height: 1.5;
+  text-align: center;
+  color: white;
+  margin-bottom: 300px;
+  padding-top: 100px;
+}
+#buttonmusic{
+  font-family: Montserrat;
+  height: 80;
+  width: 350;
+  font-size: 2.5rem;
+  color: white;
+  text-align: center;
+}
+.text1{
+  font-family: Montserrat;
+  font-size: 1rem;
+  line-height: 1.5;
+  padding-top: 150px;
+}
+.photo2{
+  height:400px;
+   width:600px;
+   padding-left: 50px;
+}
+.photo3{
+  height:400px;
+   width:400px;}
+.photo4{
+     height:400px;
+      width:600px;
+      padding-left: 10px;
+}
+.texttitle1{
+  font-family: Montserrat;
+  font-size: 2rem;
+  text-align: center;
+}
+.texttitle2{
+  font-family: Montserrat;
+  font-size: 2rem;
+  padding-left: 240px;
+  position: relative;
+}
+.arts{
+  background-color: #B2762D;
+}
+#btn2{
+  position: relative;
+  font-size: 2rem;
+  left: 30%;
+
+}
+.container1{
+  width: 700px;
+  height: 500px;
+  padding-left: 300px;
+
+}
+.contact {
+  background-color: #B2762D;
+}
+.text2 {
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 1.9rem;
+  color: white;
+}
+.font3 {
+  font-family: Montserrat;
+  font-size: 0.8rem;
+  line-height: 1.5;
+  padding-left: 400px;
+  color: white;
+}
